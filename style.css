@@ -101,7 +101,7 @@ ul li.active {
     border-radius: 50%;
 }
 
-/* galeria */
+/* Gallery */
 
 main h1 {
     padding-top: 1.6rem;
@@ -193,6 +193,8 @@ footer {
     --delay: .4s;
     animation: appear .4s var(--delay) backwards;
 }
+
+/* ---------- ANIMATIONS ---------- */
 
 @keyframes appear {
     0% {
