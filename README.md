@@ -6,7 +6,7 @@
 
 Projeto construído na formação explorer - Fullstack da Rocketseat.
 
-[Clique aqui para acessar](https://edgar-lins.github.io/fotoblog/)
+[Clique aqui para acessar](https://edgar-lins.github.io/Fotoblog/)
 
 ## 🛠 Tecnologias 
 
